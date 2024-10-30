@@ -6,3 +6,4 @@ registry.k8s.io/ingress-nginx/controller:v1.10.1
 gcr.io/cadvisor/cadvisor:v0.49.1
 alertmanager:v0.27.0
 grafana/grafana：10.0.9
+
